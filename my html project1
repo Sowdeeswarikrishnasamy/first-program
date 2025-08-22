@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>event</title>
+</head>
+<body style="background-color: black;">
+    <center>
+      <h1 style="color:white;">UPCOMING EVENTS<img src="picture 5.jpg"width=40 height="50"></img src></h1>
+       <h3 style="color: white;">don't miss this event</h3>
+       <hr>
+        <p style="color: white;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam autem praesentium voluptates, voluptatibus dolore numquam hic iusto possimus explicabo ullam inventore, in ipsa deleniti, dolor at nesciunt iure? Voluptatum, debitis eius. Quos exercitationem officia libero dolore dolorum molestias nulla. Sunt reprehenderit libero fugit iusto repudiandae praesentium blanditiis eaque quaerat ea neque nulla dicta assumenda asperiores accusantium tempore ad voluptatibus labore, enim error magni et quibusdam iste? Voluptatem cum iure officiis totam qui laborum quo recusandae dolore repellendus in dolorum odit dicta perferendis obcaecati eveniet rem dolor, dolorem a, ex autem exercitationem repudiandae. Odit inventore voluptatibus nostrum corporis pariatur magnam necessitatibus.</p>
+        <img src="photo 1.jfif"width=500></img src>
+        <h2 style="color: white;">PHOTO GALLERY</h2>
+        <h3 style="color: white;">free entry|freefood|pets are not allowed</h3>
+    </center>
+    <p style="color: white;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam cum animi quos fugiat quidem facilis! Numquam suscipit delectus architecto ipsam facilis ex qui commodi optio reprehenderit exercitationem iure consequatur eveniet voluptatem et distinctio maxime, repellendus porro tempore sed! Maiores amet molestiae, dolorum illum velit soluta nisi laudantium odit eveniet. Dolore!</p>
+     <center>
+        <img src="picture 3.jfif"width=400>
+      <h4 style="color: white;">free entry|free food|pets are not allowed</h4>
+      </center>
+     <p style="color: white;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae pariatur aliquid enim beatae error illum officia esse quas iure. Maiores molestias nobis at dolore hic natus minima asperiores aliquam et adipisci. Id ut illum temporibus odit consequuntur possimus nobis molestias dolorum doloremque magnam, nam fugit animi quo in suscipit eaque.</p>
+     <hr>
+     <center>
+        <p style="color: white;">contact no:9342722349<br>email:pnntjra@gmail.com<br></p>
+     </center>
+</body>
+</html>
